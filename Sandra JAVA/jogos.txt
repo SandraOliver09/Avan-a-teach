@@ -1,0 +1,2 @@
+gta,600.0,mundo Aberto
+Gta,600.0,mundo aberto

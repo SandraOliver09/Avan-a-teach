@@ -1,0 +1,33 @@
+body{
+    background-color: purple; 
+    color: white;
+
+}
+button {
+    margin: 30px;
+    padding: 30px;
+    font: size 12px;
+
+}
+
+h1 {
+    color:orange;
+    font-size: 20px;
+
+}
+
+ul{
+        background-color: orange;
+        padding: 10px;
+        display: flex;
+        gap: 30px;
+        list-style: nome;
+        
+    
+}
+
+    
+
+}
+
+

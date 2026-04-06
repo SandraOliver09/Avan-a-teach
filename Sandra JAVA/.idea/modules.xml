@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula 2- Tipo de dados/Aula 2- Tipo de dados.iml" filepath="$PROJECT_DIR$/Aula 2- Tipo de dados/Aula 2- Tipo de dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 4 - Estrutura de dados/Aula 4 - Estrutura de dados.iml" filepath="$PROJECT_DIR$/Aula 4 - Estrutura de dados/Aula 4 - Estrutura de dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula 5 - Estrutura de Controle/Aula 5 - Estrutura de Controle.iml" filepath="$PROJECT_DIR$/Aula 5 - Estrutura de Controle/Aula 5 - Estrutura de Controle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sandraoliver.iml" filepath="$PROJECT_DIR$/.idea/Sandraoliver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula3operadores/aula3operadores.iml" filepath="$PROJECT_DIR$/aula3operadores/aula3operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab 1/lab 1.iml" filepath="$PROJECT_DIR$/lab 1/lab 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/revisao/revisao.iml" filepath="$PROJECT_DIR$/arrays/revisao/revisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/untitled/untitled.iml" filepath="$PROJECT_DIR$/arrays/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usandocarro/usandocarro.iml" filepath="$PROJECT_DIR$/usandocarro/usandocarro.iml" />
+    </modules>
+  </component>
+</project>

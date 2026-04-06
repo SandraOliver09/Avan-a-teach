@@ -1,0 +1,18 @@
+<?php
+
+//classe nova PESSOA;
+class Pessoa{
+    public $nome;
+
+    //Construtor ( PARAMETROS NOS NOSSOS OBJETOS );
+    public function __construct( $nome ) {
+        $this->nome = $nome;
+    }
+}
+
+$p1 = new Pessoa("Gustavo");
+$p2 = new Pessoa("Joaozinho");
+
+echo $p1->nome;
+
+?>
