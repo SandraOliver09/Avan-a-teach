@@ -1,2 +1,2 @@
-# Avan-a-teach
+# Avança-tech
 Curso de programação java e PHP
